@@ -5,7 +5,7 @@ homepage: https://github.com/Jaguar-dart/ninja
 author: Ravi Teja Gudapati <tejainece@gmail.com>
 
 environment:
-  sdk: '>=2.0.0-dev.60.0 <2.0.0'
+  sdk: '>=2.0.0-dev.60.0 <3.0.0'
 
 dependencies:
   pointycastle: ^1.0.0-rc2
